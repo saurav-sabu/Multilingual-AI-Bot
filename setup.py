@@ -6,5 +6,5 @@ setup(
     author="Saurav Sabu",
     author_email='saurav.sabu9@gmail.com',
     packages=find_packages(),
-    install_requires=["SpeechRecognition","pinwin","pyaudio","gTTS","google-generativeai","python-dotenv","streamlit"]
+    install_requires=["SpeechRecognition","pipwin","pyaudio","gTTS","google-generativeai","python-dotenv","streamlit"]
 )
